@@ -1,9 +1,9 @@
-import Counter from "@/components/Counter";
+import Signup from "@/components/Signup";
 
 export default function Home() {
   return (
     <div>
-      <Counter />
+      <Signup />
     </div>
   );
 }
